@@ -4,7 +4,7 @@
 
 Below is a screenshot illustrating the solution for Question 2.
 
-![Question 2 Solution](2/ss-question2.png)
+![Question 2 Solution](./ss-question2.png)
 
 ## Kompleksitas Fungsi
 
